@@ -39,9 +39,9 @@
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/49%20resized.jpg)
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/50%20resized.jpg)
 
-2.原理:
+2.原理或:
 
-移動視差 (motion parallax):
+motion parallax:
 
 當我們往左方移動時，物體看起來會往右方移動。
 

@@ -7,6 +7,14 @@
 (1).校園草皮 
 
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/1%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/2%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/3%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/4%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/5%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/6%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/7%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/8%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/9%20resized.jpg)
 
 (2).台達二樓實驗室 
 (3).資電外面樹木

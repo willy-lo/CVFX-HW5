@@ -1,7 +1,7 @@
 # CVFX-HW5
 
 1.Take multi-view images by yourselves
-![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/tree_500.gif)
+
 我們使用到了3種場景:
 
 (1).校園草皮 

@@ -39,7 +39,7 @@
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/49%20resized.jpg)
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/50%20resized.jpg)
 
-2.原理或:
+2.原理或介紹:
 
 motion parallax:
 
@@ -100,6 +100,17 @@ Stop motion:
 若要多個細微的東西一起移動，那真的是一項大工程，從影片中更可以看出萊卡打造的不是1:1的場景，而是等比例縮小的場景，讓已經如此迷你的世界，能夠栩栩如生的「動」起來，這工程肯定相當龐大；除了向傳統手工技法和定格動畫致敬，更引進3D技術，新舊技術的融合肯定讓影迷為之驚艷！
 
  Live photo:
+ 
+ 我們知道，iPhone 可以直接拍摄 Live Photo 来用做壁纸。可是那些自己拍摄、下载的视频怎麼轉换成 Live Photo 呢？以下推荐給你們这些App。
+ 
+ intoLive:
+ 
+ 打开 intoLive，選擇相片中的视频、動畫、連拍快照或多张照片，「设置壁纸模式」—「→」—「不，重复」—「储存为 Live 照片」。
+ 
+
+
+
+
  
 3.Show image alignment results between different images
 

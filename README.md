@@ -34,10 +34,8 @@
 
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/43%20resized.jpg)
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/44%20resized.jpg)
-![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/45%20resized.jpg)
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/46%20resized.jpg)
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/47%20resized.jpg)
-![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/48%20resized.jpg)
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/49%20resized.jpg)
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/50%20resized.jpg)
 

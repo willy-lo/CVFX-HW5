@@ -17,7 +17,29 @@
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/9%20resized.jpg)
 
 (2).台達二樓實驗室 
-(3).資電外面樹木
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/10%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/11%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/12%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/25%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/26%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/27%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/40%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/41%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/42%20resized.jpg)
+
+
+
+(3)資電外面樹木
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/43%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/44%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/45%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/46%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/47%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/48%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/49%20resized.jpg)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/50%20resized.jpg)
 
 2.原理:
 

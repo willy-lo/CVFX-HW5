@@ -105,36 +105,52 @@ Stop motion:
  
  intoLive:
  
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/cut9.JPG)
+ 
  打開 intoLive，選擇相片中的視頻、動畫、連拍快照或多张照片，「设置壁纸模式」—「→」—「不，重复」—「储存为 Live 照片」。
  
 製作超過 5 秒的實況照片或使用高级功能需購買專業版。
 
 imgLive:
 
-這算是前一個App的豐富版。除了基本的轉Live Photo 功能，还有 Live Photo 轉成視頻、Gif 等操作。App還有11首内置音樂，可供你添加到Live Photo，你還可以像制作視頻那样，調整視頻和音樂的音量大小。而且它有一個我很喜欢的「情侣分屏模式Live照片」，也就是兩台手機同時播放的Live Photo可以组成一個視頻畫面。但这個功能需要升级到高级版本才能使用。
+這算是前一個App的豐富版。除了基本的轉Live Photo 功能，还有 Live Photo 轉成視頻、Gif 等操作。
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/cut13.JPG)
+
+App還有11首内置音樂，可供你添加到Live Photo，你還可以像制作視頻那样，調整視頻和音樂的音量大小。
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/cut14.JPG)
+
+而且它有一個我很喜欢的「情侣分屏模式Live照片」，也就是兩台手機同時播放的Live Photo可以组成一個視頻畫面。但这個功能需要升级到高级版本才能使用。
 
 GIPHY:
 
-世界上最大的動態 gif 和貼紙庫。你不僅可以將自己拍摄的視頻轉成Live Photo，還可以把裡面大量的Gif轉成Live Photo。搜索「KITTY」，馬上出現超多可爱的猫咪！選擇壁纸格式，就可以直接生成可爱的Live Photo了!
+世界上最大的動態 gif 和貼紙庫。你不僅可以將自己拍摄的視頻轉成Live Photo，還可以把裡面大量的Gif轉成Live Photo。搜索「KITTY」，馬上出現超多可爱的猫咪！
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/cut15.JPG)
+
+選擇壁纸格式，就可以直接生成可爱的Live Photo了!
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/cut10.JPG)
 
 Lumyer:
 
 這個 App 可以给你拍摄的視頻添加特效。
 
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/live4.gif)
+
 打開App，選擇Video，選擇喜欢的特效進行拍摄即可。
+
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/cut11.JPG)
 
 免费特效共有11個，其他特效需購買。
 
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/cut12.JPG)
+
 Lumyer還可直接將動畫保存成Live Photo格式，超方便。
 
- 
- 
- 
-
-
-
-
- 
 3.Show image alignment results between different images
 
 原圖:

@@ -157,6 +157,14 @@ Lumyer還可直接將動畫保存成Live Photo格式，超方便。
 
 reference:
 
+alignment=500:
+ 
+match=500:
+
+alignment=5000:
+
+match=5000:
+
 4.Generate the multi-view 3D visual effects
 
 motion parallax:

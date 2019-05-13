@@ -153,11 +153,36 @@ Lumyer還可直接將動畫保存成Live Photo格式，超方便。
 
 3.Show image alignment results between different images
 
-我們這組採用的樹來做模擬，分別對alignment的係數做不同的模擬，一個是係數為500的時候，另一個則是係數為5000的時候，可以從底下的GIF看得出係數為5000的會比500來的好!從以下的不同的係數可以發現5000的時候，取出的feature越多，對應的線也越多，相對出做來的也越準!越不會跑掉!
+我們這組採用的是以上所提到的那三種來做模擬，分別對alignment的係數做不同的模擬，一個是係數為500的時候，另一個則是係數為5000的時候，可以從底下的GIF看得出係數為5000的會比500來的好!從以下的不同的係數可以發現5000的時候，取出的feature越多，對應的線也越多，相對出做來的也越準!越不會跑掉!
+
+
+原圖:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/1%20resized.jpg)
+
+reference:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/5ref%20resized.jpg)
 
 原圖:
 
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/50%20resized.jpg)
+
+alignment=500:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/aligned1_500%20resized.jpg)
+
+match=500:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/matches1_500%20resized.jpg)
+
+alignment=5000:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/aligned1_5000%20resized.jpg)
+
+match=5000:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/matches1_5000%20resized.jpg)
 
 reference:
 

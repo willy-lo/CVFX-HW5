@@ -187,7 +187,7 @@ motion parallax:
 
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/re_tree_500.gif)
 
-![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/re_tree_5000.gif)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/tree.gif)
 
 Stop motion:
 

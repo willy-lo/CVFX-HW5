@@ -164,10 +164,6 @@ reference:
 
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/5ref%20resized.jpg)
 
-原圖:
-
-![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/50%20resized.jpg)
-
 alignment=500:
 
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/aligned1_500%20resized.jpg)
@@ -183,6 +179,10 @@ alignment=5000:
 match=5000:
 
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/matches1_5000%20resized.jpg)
+
+原圖:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/50%20resized.jpg)
 
 reference:
 
@@ -203,6 +203,31 @@ alignment=5000:
 match=5000:
 
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/matches50_5000%20resized.jpg)
+
+原圖:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/10%20resized.jpg)
+
+reference:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/26%20resized.jpg)
+
+alignment=500:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/aligned42_500%20resized.jpg)
+
+match=500:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/matches42_500%20resized.jpg)
+
+alignment=5000:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/aligned42_5000%20resized.jpg)
+
+match=5000:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/matches42_5000%20resized.jpg)
+
 
 4.Generate the multi-view 3D visual effects & 5.Bonus - Complete the above 3 different effects
 

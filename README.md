@@ -273,10 +273,10 @@ flag裡面建築物經過blur後:
 
  ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/gif-blur%20(1).gif)
  
-lab學長周圍經過blur:
+lab學長周圍經過blur後:
  
  ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/gif-blur%20(2).gif)
  
- tree經過blur:
+ 樹經過blur後:
  
  ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/gif-blur%20(3).gif)

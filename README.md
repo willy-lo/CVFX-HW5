@@ -199,9 +199,9 @@ Stop motion:
  
  ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/re_flag_org.gif)
  
- ![image]( https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/re_flag_500.gif)
+ ![image]( https://github.com/willy-lo/CVFX-HW5/blob/master/flag_500.gif)
  
- ![image]( https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/re_flag_5000.gif)
+ ![image]( https://github.com/willy-lo/CVFX-HW5/blob/master/flag_5000.gif)
 
 6.Exploit creativity to add some image processing to enhance effect (Using post-production software is allowed)
 

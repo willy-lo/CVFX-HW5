@@ -185,7 +185,7 @@ motion parallax:
 
 max_feature=500的GIF
 
-![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/re_tree_500.gif)
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/tree_500.gif)
 
 max_feature=5000的GIF
 

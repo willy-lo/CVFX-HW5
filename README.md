@@ -191,6 +191,8 @@ max_feature=5000的GIF
 
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/tree.gif)
 
+比較:從以上的兩個GIF可以發現5000的建築物並不會動，而是會固定住，但是在500的建築物會動，所以可以看出5000的效果好多了!
+
 Stop motion:
 
 max_feature=500的GIF
@@ -201,6 +203,8 @@ max_feature=5000的GIF
 
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/lab_5000.gif)
 
+比較:從以上的兩個GIF可以發現5000的旁邊電腦並不會動，而是會固定住，但是在500的旁邊電腦會動，所以可以看出5000的效果好多了!
+
  Live photo:
  
  max_feature=500的GIF
@@ -210,6 +214,8 @@ max_feature=5000的GIF
  max_feature=5000的GIF
  
  ![image]( https://github.com/willy-lo/CVFX-HW5/blob/master/flag_5000.gif)
+
+比較:從以上的兩個GIF可以發現5000的建築物並不會動，而是會固定住，但是在500的建築物會動，所以可以看出5000的效果好多了!
 
 6.Exploit creativity to add some image processing to enhance effect (Using post-production software is allowed)
 

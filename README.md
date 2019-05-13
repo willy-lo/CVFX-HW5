@@ -183,8 +183,6 @@ match=5000:
 
 motion parallax:
 
-![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/re_tree_org.gif)
-
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/re_tree_500.gif)
 
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/tree.gif)
@@ -196,8 +194,6 @@ Stop motion:
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/lab_5000.gif)
 
  Live photo:
- 
- ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/re_flag_org.gif)
  
  ![image]( https://github.com/willy-lo/CVFX-HW5/blob/master/flag_500.gif)
  

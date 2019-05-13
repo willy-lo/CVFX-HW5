@@ -157,7 +157,11 @@ Lumyer還可直接將動畫保存成Live Photo格式，超方便。
 
 原圖:
 
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/50%20resized.jpg)
+
 reference:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/43(ref)%20resized.jpg)
 
 alignment=500:
  

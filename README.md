@@ -179,7 +179,7 @@ match=5000:
 
 ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/matches50_5000%20resized.jpg)
 
-4.Generate the multi-view 3D visual effects
+4.Generate the multi-view 3D visual effects & 5.Bonus - Complete the above 3 different effects
 
 motion parallax:
 
@@ -203,5 +203,5 @@ Stop motion:
  
  ![image]( https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/re_flag_5000.gif)
 
-5.Exploit creativity to add some image processing to enhance effect (Using post-production software is allowed)
+6.Exploit creativity to add some image processing to enhance effect (Using post-production software is allowed)
 

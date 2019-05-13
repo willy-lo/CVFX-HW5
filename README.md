@@ -153,7 +153,7 @@ Lumyer還可直接將動畫保存成Live Photo格式，超方便。
 
 3.Show image alignment results between different images
 
-我們這組採用的國旗來做模擬，分別對alignment的係數做不同的模擬，一個是係數為500的時候，另一個則是係數為5000的時候，可以看得出係數5000的效果比500好!之後貼上來的GIF我們則是用係數為5000的來創造出來!
+我們這組採用的樹來做模擬，分別對alignment的係數做不同的模擬，一個是係數為500的時候，另一個則是係數為5000的時候，可以看得出係數5000的效果比500好!之後貼上來的GIF我們則是用係數為5000的來創造出來!
 
 原圖:
 
@@ -161,11 +161,19 @@ reference:
 
 alignment=500:
  
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/aligned50_500%20resized.jpg)
+ 
 match=500:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/matches50_500%20resized.jpg)
 
 alignment=5000:
 
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/aligned50_5000%20resized.jpg)
+ 
 match=5000:
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/matches50_5000%20resized.jpg)
 
 4.Generate the multi-view 3D visual effects
 

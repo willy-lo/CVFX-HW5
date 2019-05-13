@@ -273,10 +273,22 @@ flag裡面建築物經過blur後:
 
  ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/gif-blur%20(1).gif)
  
+ 先經過alignment後，再將係數調成5000可以發現效果很好
+ 
+ ![image]( https://github.com/willy-lo/CVFX-HW5/blob/master/flag_5000.gif)
+  
 lab學長周圍經過blur後:
  
  ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/gif-blur%20(2).gif)
  
+ 先經過alignment後，再將係數調成5000可以發現效果很好 
+ 
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/cv_hw5/lab_5000.gif)
+ 
  樹經過blur後:
  
  ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/gif-blur%20(3).gif)
+
+ 先經過alignment後，再將係數調成5000可以發現效果很好
+
+![image](https://github.com/willy-lo/CVFX-HW5/blob/master/tree.gif)

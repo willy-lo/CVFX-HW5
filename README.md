@@ -269,8 +269,14 @@ max_feature=5000的GIF
 
 6.Exploit creativity to add some image processing to enhance effect (Using post-production software is allowed)
 
+flag經過blur:
+
  ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/gif-blur%20(1).gif)
  
+lab經過blur:
+ 
  ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/gif-blur%20(2).gif)
+ 
+ tree經過blur:
  
  ![image](https://github.com/willy-lo/CVFX-HW5/blob/master/gif-blur%20(3).gif)
